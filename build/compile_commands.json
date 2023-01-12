@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ming/CPP/StateMachine/build",
+  "command": "/usr/bin/g++   -I/home/ming/CPP/StateMachine/build/_deps/cli11-src/include -I/home/ming/CPP/StateMachine/build/_deps/nlohmann_json-src/include  -g   -o CMakeFiles/vl22-11-28.dir/src/main.cc.o -c /home/ming/CPP/StateMachine/src/main.cc",
+  "file": "/home/ming/CPP/StateMachine/src/main.cc"
+}
+]
